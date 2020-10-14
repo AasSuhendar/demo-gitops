@@ -1,0 +1,1 @@
+{"jobID":"da6a1f85-3f88-41d8-fd61-694ea6ba904d","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"gitops-demo:deployment/nginx-gitops":{"add":{"automated":"true"},"remove":{}}}},"result":null}
